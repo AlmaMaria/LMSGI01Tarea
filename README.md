@@ -17,9 +17,13 @@ He creado los siguientes archivos en **texto plano** con **bloc de notas**.
 
 Una vez hechos estos archivos, los he renombrado a su **extensión** correspondiente, comprobando que se veían bien abriéndolos con el programa indicado.
 
-###B:Crear un **repositorio** *GitHub*
+###B: Crear un **repositorio** *GitHub*
 
 Para esta parte de la tarea, me he registrado en la página de *GitHub*, en la que una vez registrada, he subido los archivos realizados para la tarea en texto plano y he editado el archivo *Readme.md* utilizando *Markdown* poniendo como contenido la explicación de todo lo que he hecho para crear la tarea.
+
+###C: Una vez completado, envía el enlace de tu repositorio.
+
+Tal y como pide el enunciado, envío el enlace de mi repositorio.
 
 ##*Links* utilizados:
 
